@@ -22,9 +22,9 @@ sensor drivers.
 
 ## Project List
 
-### 1. GPIO Output Driver
+### 1. GPIO Output Driver  
 Repository:  
-stm32-bl475eiot1a1-gpio-output-driver
+https://github.com/BOSSX918spy/stm32-bl475eiot1a1-gpio-output-driver
 
 Focus:
 - GPIO configuration
@@ -33,9 +33,9 @@ Focus:
 
 ---
 
-### 2. GPIO Button Interrupt with Debounce
+### 2. GPIO Button Interrupt with Debounce  
 Repository:  
-stm32-bl475eiot1a1-gpio-button-interrupt
+https://github.com/BOSSX918spy/stm32-bl475eiot1a1-gpio-button-interrupt
 
 Focus:
 - EXTI interrupts
@@ -44,9 +44,9 @@ Focus:
 
 ---
 
-### 3. UART Debug Console
+### 3. UART Debug Console  
 Repository:  
-stm32-bl475eiot1a1-uart-debug-console
+https://github.com/BOSSX918spy/stm32-bl475eiot1a1-uart-debug-console
 
 Focus:
 - UART abstraction layer
@@ -55,9 +55,9 @@ Focus:
 
 ---
 
-### 4. HTS221 I²C Sensor Driver
+### 4. HTS221 I²C Sensor Driver  
 Repository:  
-stm32-bl475eiot1a1-i2c-hts221-driver
+https://github.com/BOSSX918spy/stm32-bl475eiot1a1-i2c-hts221-driver
 
 Focus:
 - Sensor abstraction
@@ -66,9 +66,9 @@ Focus:
 
 ---
 
-### 5. LPS22HB Pressure Sensor Driver
+### 5. LPS22HB Pressure Sensor Driver  
 Repository:  
-stm32-bl475eiot1a1-i2c-lps22hb-driver
+https://github.com/BOSSX918spy/stm32-bl475eiot1a1-i2c-lps22hb-driver
 
 Focus:
 - Multi-sensor I²C bus
