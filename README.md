@@ -84,3 +84,29 @@ All projects follow a layered firmware model:
 Application → Driver → BSP → HAL → Hardware
 
 This mirrors production embedded system design practices.
+
+
+---
+
+## Development Context
+
+These firmware projects were developed at the **IoT Innovation Lab**,  
+Department of Electronics and Communication Engineering,  
+**Chitkara University**.
+
+The work was completed as part of hands-on embedded systems learning
+and practical experimentation on real hardware platforms.
+
+---
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to:
+
+- **Dr. Amit Kumar**
+- **Dr. Amarjeet Kaur**
+- **Mr. Rakesh Kumar**
+
+for their guidance, mentorship, and support throughout the development
+of these projects.
+
